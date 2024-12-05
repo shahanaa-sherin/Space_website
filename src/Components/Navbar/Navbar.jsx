@@ -22,29 +22,29 @@ const Navbar = () => {
               <a
                 href="#"
                 className="inline-block px-3 py-2 hover:text-yellow-400 transition-colors duration-200"
-              ></a>
-              Home
+              > Home</a>
+             
             </li>
             <li>
               <a
                 href="#"
                 className="inline-block px-3 py-2 hover:text-yellow-400 transition-colors duration-200"
-              ></a>
-              Features
+              >Features</a>
+              
+            </li>
+            <li>
+              <a
+                href="#"
+                className="inline-block px-3 py-2 hover:text-yellow-400 cursor-pointer transition-colors duration-200"
+              >Pricing</a>
+              
             </li>
             <li>
               <a
                 href="#"
                 className="inline-block px-3 py-2 hover:text-yellow-400 transition-colors duration-200"
-              ></a>
-              Pricing
-            </li>
-            <li>
-              <a
-                href="#"
-                className="inline-block px-3 py-2 hover:text-yellow-400 transition-colors duration-200"
-              ></a>
-              Contact Us
+              >Contact Us</a>
+              
             </li>
             <li>
               <button className="border border-white px-6 py-2 rounded-full hover:shadow-custom-inset hover:bg-secondary hover:border-transparent transition-all duration-200">
